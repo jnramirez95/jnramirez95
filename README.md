@@ -1,8 +1,8 @@
 
 ##  Hola! Mi Nombre es 
 
-![]()
-<!-- ![]() -->
+![](https://github.com/jnramirez95/jnramirez95/blob/main/img/1.jpeg?raw=truehttps://github.com/jnramirez95/jnramirez95/blob/main/img/1.jpeg?raw=true)
+<!-- ![](https://github.com/jnramirez95/jnramirez95/blob/main/img/1.jpeg?raw=true) -->
 
 Motivated, teamwork-oriented, and responsible software developer with experience in desktop, mobile, and web apps development. With an intermediate understand
 
