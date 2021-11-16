@@ -14,8 +14,6 @@ Motivated, teamwork-oriented, and responsible software developer with experience
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Visual.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Gitkraken.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Sass.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Materializecss.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Xd.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/Davermx/Davermx/master/img/Ilustrator.png"></code>
@@ -24,22 +22,11 @@ Motivated, teamwork-oriented, and responsible software developer with experience
 ## Donde me puedes encontrar
 
 _Personal_
-* Fotos, tips y memes **[Instagram]()**
-* Leo, comparto y aprendo en **[Twitter]()**
+* **[Instagram](https://www.instagram.com/ramirezjona/)**
+* **[Linkedin](https://www.linkedin.com/in/jonathan-ramirez-b21b8b171/)**
 
 _Emprendimiento_
-* Tiendita en linea **[Office Toners](https://officetoners.com.mx)**
-  + Instagram de **[Office Toners](https://www.instagram.com/officetoners/)**
-  + Fanpage **[Office Toners](https://www.facebook.com/Officetoners1/)**
-* Implemento y Capacito **[Software Gisemx](https://daguilera.com.mx/soluciones.html)**
-  + Fanpage **[Gisemx](https://www.facebook.com/gisecancun/)**
-
-
-
-#### Si te sirvio, picale a **Stars**, tambien puedes darle **Fork** o mandame un tuit y dime que podemos mejorarle. ✌️
-
-![GitHub stars](https://img.shields.io/github/stars/Davermx/Davermx?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Davermx/Davermx?label=Fork&style=social)
-![GitHub followers](https://img.shields.io/github/followers/Davermx?label=Follow&style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Davermx/Davermx?style=social)
+* Desarrollo web y servicios tecnologicos **[Neotec](https://www.facebook.com/neotecsc)**
+  + Fanpage **[Neotec]()**
+  + Instagram **[neotecsc](https://www.instagram.com/neotecsc/)**
 
