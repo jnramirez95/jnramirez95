@@ -24,8 +24,8 @@ Motivated, teamwork-oriented, and responsible software developer with experience
 ## Donde me puedes encontrar
 
 _Personal_
-* Fotos, tips y memes **[Instagram](https://www.instagram.com/iamdaguilera)**
-* Leo, comparto y aprendo en **[Twitter](https://twitter.com/davermx)**
+* Fotos, tips y memes **[Instagram]()**
+* Leo, comparto y aprendo en **[Twitter]()**
 
 _Emprendimiento_
 * Tiendita en linea **[Office Toners](https://officetoners.com.mx)**
