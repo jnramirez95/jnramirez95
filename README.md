@@ -8,15 +8,18 @@ Motivated, teamwork-oriented, and responsible software developer with experience
 
 **Apps y Herramientas que uso:**  
 
+<code><img height="30" src="https://raw.githubusercontent.com/jnramirez95/jnramirez95/main/img/Angular.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jnramirez95/jnramirez95/main/img/MongoDB.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jnramirez95/jnramirez95/main/img/Html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jnramirez95/jnramirez95/main/img/Css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jnramirez95/jnramirez95/main/img/Js.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/jnramirez95/jnramirez95/main/img/Bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jnramirez95/jnramirez95/main/img/Visual.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jnramirez95/jnramirez95/main/img/Git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/jnramirez95/jnramirez95/main/img/Bootstrap.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jnramirez95/jnramirez95/main/img/Xd.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jnramirez95/jnramirez95/main/img/Premiere.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/jnramirez95/jnramirez95/main/img/Photoshop.png"></code>
+
 
 ## Donde me puedes encontrar
 
